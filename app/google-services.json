@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "336083370788",
+    "project_id": "bookmarker-3b39d",
+    "storage_bucket": "bookmarker-3b39d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336083370788:android:915ad01f6514a8b9e1e9b1",
+        "android_client_info": {
+          "package_name": "com.enesy.bookmarker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336083370788-givr1qrc97m4dopnfisf5i6o9n0lfrh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enesy.bookmarker",
+            "certificate_hash": "e57f804757e6dacaccd0ad971860f2274984c953"
+          }
+        },
+        {
+          "client_id": "336083370788-k7daflcfi4r22eo9qeniuqvqvq6j8601.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enesy.bookmarker",
+            "certificate_hash": "2429dc386415eb2fd4476f3c36f1cfd2b684a263"
+          }
+        },
+        {
+          "client_id": "336083370788-nmssbe9pqcdb1lpqh898an809hbnk24i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs9Mv8u_R-gQ-pLjO-83Bv_O-E-12Mz74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336083370788-nmssbe9pqcdb1lpqh898an809hbnk24i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
